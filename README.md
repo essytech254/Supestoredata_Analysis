@@ -67,15 +67,34 @@ The dataset was provided as part of the online course **"Data Visualization Esse
 ---
 
 ## How to Use
-1. download power bi desktop.
-2.clone the repository : git clone https://github.com/essytech254/Supestoredata_Analysis.git
-3. Use the slicers to interact with the visuals for:
+
+1. **Download Power BI Desktop**  
+   - Make sure you have [Power BI Desktop](https://powerbi.microsoft.com/downloads/) installed on your machine.
+
+2. **Clone the Repository**  
+   Clone the repository to your local machine by running the following command:
+   - `git clone https://github.com/essytech254/Superstoredata_Analysis.git`
+   
+
+3. **Interact with the Visuals Using Slicers**  
+   Open the Power BI file (`.pbix`) and use the slicers to filter the data:
    - **Year**
    - **Region**
    - **Category**
-4. Drill through the **Locations Report** for regional insights.
-5. Hover over visuals to explore **Segment Tooltips**.
-6. use the Q&A to ask your own questions about the data
+
+4. **Drill Through the Locations Report**  
+   Right-click on a location-related visual and select **Drill Through** to gain regional insights.
+
+5. **Explore Segment Tooltips**  
+   Hover over the visuals to view additional data in the **Segment Tooltips** for deeper insights.
+
+6. **Use the Q&A Feature**  
+   In Power BI, use the **Q&A** feature to ask questions about the data, like "Total sales by region" or "What is the highest-selling category?"
+
+---
+
+
+
 ---
 
 ## Conclusion
