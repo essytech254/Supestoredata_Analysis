@@ -18,19 +18,17 @@ The report is structured across multiple pages and includes advanced interactive
    - Sales and transaction trends over time.
    - Insights into customer segments and their behavior.
 # periodic report page
-![Periodic Report Page](periodic_report_page.png)
-
+![Periodic Report](<periodic_ report_page.png>)
 
 
 
 2. **Locations Report**:
    - Drill-through functionality enabled for detailed regional analysis.
    # locations report page
-   ![locations Report page](Locations_report_page.png)
+   ![locations Report page](<Locations _report_ page.png>)
 
    # locations report drill trough page
-   ![locations Report drill trough page](Locations_report_drill_trough_page.png)
-
+   ![locations Report drill trough page](<Locations _report_ page  drill trough.png>)
    
 
 
@@ -39,13 +37,11 @@ The report is structured across multiple pages and includes advanced interactive
    - **Decomposition Tree** for detailed breakdown and analysis.
 
    # Advanced Analysis Report page
-![Advanced Analysis page](Advanced_Analysis_page.png)
-
+![Advanced Analysis page](<Advanced _Analysis _page.png>)
 4. **Segment Tooltip**:
    - Enabled for detailed insights into specific customer segments shares when interacting with visuals.
    # segement tooltip page
-   ![segment tooltip page](Segement_toltip_page.png)
-
+   ![segment tooltip page](<Segement _tooltip_ page.png>)
 
 ---
 
