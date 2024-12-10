@@ -2,10 +2,10 @@
 # Superstore Data Analysis with Power BI
 # Originial data
 The original datset had a total of 21 rows and 9995 columns
-![Original data image](Original_data.png)
+![Original data image](images/Original_data.png)
 
 # Transformed data and steps used to transform the data in power query
-![Transformed data](Transformed_data.png)
+![Transformed data](images/Transformed_data.png)
 
 
 
@@ -18,17 +18,17 @@ The report is structured across multiple pages and includes advanced interactive
    - Sales and transaction trends over time.
    - Insights into customer segments and their behavior.
 # periodic report page
-![Periodic Report](<periodic_ report_page.png>)
+![Periodic Report](<images/periodic_ report_page.png>)
 
 
 
 2. **Locations Report**:
    - Drill-through functionality enabled for detailed regional analysis.
    # locations report page
-   ![locations Report page](<Locations _report_ page.png>)
+   ![locations Report page](<images/Locations _report_ page.png>)
 
    # locations report drill trough page
-   ![locations Report drill trough page](<Locations _report_ page  drill trough.png>)
+   ![locations Report drill trough page](<images/Locations _report_ page  drill trough.png>)
    
 
 
@@ -37,11 +37,11 @@ The report is structured across multiple pages and includes advanced interactive
    - **Decomposition Tree** for detailed breakdown and analysis.
 
    # Advanced Analysis Report page
-![Advanced Analysis page](<Advanced _Analysis _page.png>)
+![Advanced Analysis page](<images/Advanced _Analysis _page.png>)
 4. **Segment Tooltip**:
    - Enabled for detailed insights into specific customer segments shares when interacting with visuals.
    # segement tooltip page
-   ![segment tooltip page](<Segement _tooltip_ page.png>)
+   ![segment tooltip page](<images/Segement _tooltip_ page.png>)
 
 ---
 
@@ -62,19 +62,20 @@ The dataset was provided as part of the online course **"Data Visualization Esse
 - **Decomposition Tree**: Drill-down analysis of specific metrics.
 - **KPI Visuals**: Summarize key statistics like total sales and transactions.
 - **Map**        : To show distribution of sales by city
-- ** matrix table:  To show  state and ship mode
+- **matrix table**:  To show  state and ship mode
 
 ---
 
 ## How to Use
-1. Open the report in Power BI to explore interactive features.
-2. Use filters for:
+1. download power bi desktop.
+2.clone the repository : git clone https://github.com/essytech254/Supestoredata_Analysis.git
+3. Use the slicers to interact with the visuals for:
    - **Year**
    - **Region**
    - **Category**
-3. Drill through the **Locations Report** for regional insights.
-4. Hover over visuals to explore **Segment Tooltips**.
-
+4. Drill through the **Locations Report** for regional insights.
+5. Hover over visuals to explore **Segment Tooltips**.
+6. use the Q&A to ask your own questions about the data
 ---
 
 ## Conclusion
